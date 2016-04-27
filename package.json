@@ -1,0 +1,31 @@
+{
+  "name": "vector-tiles",
+  "version": "1.0.0",
+  "description": "study how to make vector tiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandergis/vector-tiles.git"
+  },
+  "keywords": [
+    "wandergis",
+    "vector",
+    "tile",
+    "pbf",
+    "leaflet",
+    "mapbox"
+  ],
+  "author": "wandergis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandergis/vector-tiles/issues"
+  },
+  "homepage": "https://github.com/wandergis/vector-tiles#readme",
+  "dependencies": {
+    "geojson-vt": "^2.1.8",
+    "vt-pbf": "^2.0.2"
+  }
+}
