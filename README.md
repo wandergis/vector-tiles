@@ -6,3 +6,5 @@ study how to make vector tiles
 - 自动化处理
 - 支持postgis最好
 - gdal研究
+- tilestache研究
+- vt-pbf集成
