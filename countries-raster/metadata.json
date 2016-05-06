@@ -1,0 +1,10 @@
+{
+    "attribution": "", 
+    "description": "", 
+    "format": "png", 
+    "bounds": "-180,-85.738076382392,180,84.79842793857", 
+    "name": "Countries", 
+    "minzoom": "0", 
+    "maxzoom": "6", 
+    "center": "0,0,2"
+}
