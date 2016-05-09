@@ -15,7 +15,9 @@
     "geojson-vt": "^2.1.8",
     "lodash": "^4.11.1",
     "morgan": "~1.6.1",
+    "pg": "^4.5.5",
     "serve-favicon": "~2.3.0",
+    "sphericalmercator": "^1.0.5",
     "vt-pbf": "^2.0.2"
   }
 }
