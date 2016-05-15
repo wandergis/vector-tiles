@@ -17,5 +17,5 @@ study how to make vector tiles
 - gdal研究
 - tilestache研究
 - vt-pbf集成
-- 数据动态插入
 - 数据源切换
+- 动态增加数据
