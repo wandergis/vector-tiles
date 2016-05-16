@@ -19,3 +19,4 @@ study how to make vector tiles
 - vt-pbf集成
 - 数据源切换
 - 动态增加数据
+- 重新配置环境安装gdal2.0.2
